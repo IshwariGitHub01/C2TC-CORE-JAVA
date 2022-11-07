@@ -14,6 +14,7 @@ public class MultiLevelInheritance {
 }
 
 class X{
+	
 	int a;
 }
 

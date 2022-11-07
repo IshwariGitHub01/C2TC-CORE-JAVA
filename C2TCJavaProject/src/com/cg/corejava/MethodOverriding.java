@@ -17,6 +17,7 @@ class parent{
 		System.out.println("Home/Money/Car/Factory");
 	}
 	
+	
 	void Drive() {
 		System.out.println("Swift");
 	}

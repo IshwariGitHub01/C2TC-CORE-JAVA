@@ -17,6 +17,7 @@ class A{
 	void arg(){
 		System.out.println("Variables are : "+a+" "+b);
 	}
+	
 }
 
 class B extends A{

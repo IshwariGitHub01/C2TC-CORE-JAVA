@@ -13,6 +13,7 @@ interface A1{
 	void displayA();
 }
 
+
 interface B1{
 	void displayB();
 }

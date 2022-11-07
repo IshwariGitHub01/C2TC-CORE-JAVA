@@ -11,6 +11,7 @@ public class HeirarchicalInheritance {
 		t.msg();
 	}
 
+	
 }
 class first{
 	void msg()

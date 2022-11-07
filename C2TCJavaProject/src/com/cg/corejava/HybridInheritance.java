@@ -15,6 +15,8 @@ public class HybridInheritance {
 	}
 }
 
+
+
 class ONE{
 	void msg()
 	{System.out.println("In First Class");}
